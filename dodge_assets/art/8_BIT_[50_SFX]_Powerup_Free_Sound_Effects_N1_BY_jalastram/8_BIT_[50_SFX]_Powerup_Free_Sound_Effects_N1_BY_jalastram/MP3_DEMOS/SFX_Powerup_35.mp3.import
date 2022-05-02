@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/SFX_Powerup_35.mp3-f3b7d9fe8084d61a4e56cb27ec2b9f35.mp3str"
+
+[deps]
+
+source_file="res://dodge_assets/art/8_BIT_[50_SFX]_Powerup_Free_Sound_Effects_N1_BY_jalastram/8_BIT_[50_SFX]_Powerup_Free_Sound_Effects_N1_BY_jalastram/MP3_DEMOS/SFX_Powerup_35.mp3"
+dest_files=[ "res://.import/SFX_Powerup_35.mp3-f3b7d9fe8084d61a4e56cb27ec2b9f35.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

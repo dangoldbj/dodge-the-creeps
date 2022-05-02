@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/m1.mp3-953fcba3a35f6faad5fd032e2a425431.mp3str"
+
+[deps]
+
+source_file="res://dodge_assets/art/m1.mp3"
+dest_files=[ "res://.import/m1.mp3-953fcba3a35f6faad5fd032e2a425431.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
